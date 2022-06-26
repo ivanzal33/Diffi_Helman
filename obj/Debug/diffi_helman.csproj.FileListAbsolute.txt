@@ -1,0 +1,11 @@
+C:\Проекты\diffi_helman\bin\Debug\diffi_helman.exe.config
+C:\Проекты\diffi_helman\bin\Debug\diffi_helman.exe
+C:\Проекты\diffi_helman\bin\Debug\diffi_helman.pdb
+C:\Проекты\diffi_helman\obj\Debug\diffi_helman.csproj.AssemblyReference.cache
+C:\Проекты\diffi_helman\obj\Debug\diffi_helman.csproj.SuggestedBindingRedirects.cache
+C:\Проекты\diffi_helman\obj\Debug\diffi_helman.Form1.resources
+C:\Проекты\diffi_helman\obj\Debug\diffi_helman.Properties.Resources.resources
+C:\Проекты\diffi_helman\obj\Debug\diffi_helman.csproj.GenerateResource.cache
+C:\Проекты\diffi_helman\obj\Debug\diffi_helman.csproj.CoreCompileInputs.cache
+C:\Проекты\diffi_helman\obj\Debug\diffi_helman.exe
+C:\Проекты\diffi_helman\obj\Debug\diffi_helman.pdb
